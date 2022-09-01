@@ -86,7 +86,7 @@ app.get('/',async function (req,res){
 //     const userunsert = await userRepo.save(user);
 //     res.json(userunsert)
 //update
-    // await userRepo.update(1,{firstName: "mimon", lastName: "rishat", age: 20, profile: });
+    // await userRepo.update(1,{firstName: "aothoi", lastName: "aoyhoi", age: 20, profile: });
     // res.send("update")
 //FIND BY ENTITY 
     // const record = await userRepo.findOne({where:{firstName:"mimon"}})
